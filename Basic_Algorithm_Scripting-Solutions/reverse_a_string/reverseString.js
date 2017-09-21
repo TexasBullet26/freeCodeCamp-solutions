@@ -1,5 +1,5 @@
 /*
- *  freeCodeCamp: Reverse a String
+ *  freeCodeCamp Algorithm Challenge: Reverse a String
  *
  *  Reverse the provided string.
  *
