@@ -1,0 +1,32 @@
+# 00-Basic HTML and HTML5 (Challenge Task List)
+
+---
+
+- ###### [x] ~~00-introduction-to-the-basic-html-and-html5-challenges~~
+- ###### [x] ~~01-say-hello-to-html-elements~~
+- ###### [x] ~~02-headline-with-the-h2-element~~
+- ###### [x] ~~03-inform-with-the-paragraph-element~~
+- ###### [x] ~~04-fill-in-the-blank-with-placeholder-text~~
+- ###### [x] ~~05-uncomment-html~~
+- ###### [x] ~~06-comment-out-html~~
+- ###### [x] ~~07-delete-html-elements~~
+- ###### [x] ~~08-introduction-to-html5-elements~~
+- ###### [x] ~~09-add-images-to-your-website~~
+- ###### [x] ~~10-link-to-external-pages-with-anchor-elements~~
+- ###### [x] ~~11-link-to-internal-sections-of-a-page-with-anchor-elements~~
+- ###### [x] ~~12-nest-an-anchor-element-within-a-paragraph~~
+- ###### [x] ~~13-make-dead-links-using-the-hash-symbol~~
+- ###### [x] ~~14-turn-an-image-into-a-link~~
+- ###### [x] ~~15-create-a-bulleted-unordered-list~~
+- ###### [] 16-create-an-ordered-list
+- ###### [x] ~~17-create-a-text-field~~
+- ###### [] 18-add-placeholder-text-to-a-text-field
+- ###### [] 19-create-a-form-element
+- ###### [] 20-add-a-submit-button-to-a-form
+- ###### [] 21-use-html5-to-require-a-field
+- ###### [] 22-create-a-set-of-radio-buttons
+- ###### [] 23-create-a-set-of-checkboxes
+- ###### [] 24-check-radio-buttons-and-checkboxes-by-default
+- ###### [] 25-nest-many-elements-within-a-single-div-element
+- ###### [] 26-declare-the-doctype-of-an-html-document
+- ###### [] 27-define-the-head-and-body-of-an-html-document
