@@ -1,41 +1,41 @@
-# 01-Basic CSS (Challenge Task List)
+# Basic CSS (Challenge Task List)
 
 ---
 
-- ###### [] 00-introduction-to-basic-css
-- ###### [x] ~~01-change-the-color-of-text~~
-- ###### [x] ~~02-use-css-selectors-to-style-elements~~
-- ###### [x] ~~03-use-a-css-class-to-style-an-element~~
-- ###### [] 04-style-multiple-elements-with-a-css-class
-- ###### [] 05-change-the-font-size-of-an-element
-- ###### [] 06-set-the-font-family-of-an-element
-- ###### [] 07-import-a-google-font
-- ###### [] 08-specify-how-fonts-should-degrade
-- ###### [] 09-size-your-images
-- ###### [] 10-add-borders-around-your-elements
-- ###### [] 11-add-rounded-corners-with-border-radius
-- ###### [] 12-make-circular-images-with-a-border-radius
-- ###### [] 13-give-a-background-color-to-a-div-element
-- ###### [] 14-set-the-id-of-an-element
-- ###### [] 15-use-an-id-attribute-to-style-an-element
-- ###### [] 16-adjust-the-padding-of-an-element
-- ###### [] 17-adjust-the-margin-of-an-element
-- ###### [] 18-add-a-negative-margin-to-an-element
-- ###### [] 19-add-different-padding-to-each-side-of-an-element
-- ###### [] 20-add-different-margins-to-each-side-of-an-element
-- ###### [] 21-use-clockwise-notation-to-specify-the-padding-of-an-element
-- ###### [] 22-use-clockwise-notation-to-specify-the-margin-of-an-element
-- ###### [] 23-use-attribute-selectors-to-style-elements
-- ###### [] 24-understand-absolute-versus-relative-units
-- ###### [] 25-style-the-html-body-element
-- ###### [] 26-inherit-styles-from-the-body-element
-- ###### [] 27-prioritize-one-style-over-another
-- ###### [] 28-override-styles-in-subsequent-css
-- ###### [] 29-override-class-declarations-by-styling-id-attributes
-- ###### [] 30-override-class-declarations-with-inline-styles
-- ###### [] 31-override-all-other-styles-by-using-important
-- ###### [] 32-use-hex-code-for-specific-colors
-- ###### [] 33-use-hex-code-to-mix-colors
-- ###### [] 34-use-abbreviated-hex-code
-- ###### [] 35-use-rgb-values-to-color-elements
-- ###### [] 36-use-rgb-to-mix-colors
+- #### [ ] 00-introduction-to-basic-css
+- #### [x] ~~01-change-the-color-of-text~~
+- #### [x] ~~02-use-css-selectors-to-style-elements~~
+- #### [x] ~~03-use-a-css-class-to-style-an-element~~
+- #### [ ] 04-style-multiple-elements-with-a-css-class
+- #### [ ] 05-change-the-font-size-of-an-element
+- #### [ ] 06-set-the-font-family-of-an-element
+- #### [ ] 07-import-a-google-font
+- #### [ ] 08-specify-how-fonts-should-degrade
+- #### [ ] 09-size-your-images
+- #### [ ] 10-add-borders-around-your-elements
+- #### [ ] 11-add-rounded-corners-with-border-radius
+- #### [ ] 12-make-circular-images-with-a-border-radius
+- #### [ ] 13-give-a-background-color-to-a-div-element
+- #### [ ] 14-set-the-id-of-an-element
+- #### [ ] 15-use-an-id-attribute-to-style-an-element
+- #### [ ] 16-adjust-the-padding-of-an-element
+- #### [ ] 17-adjust-the-margin-of-an-element
+- #### [ ] 18-add-a-negative-margin-to-an-element
+- #### [ ] 19-add-different-padding-to-each-side-of-an-element
+- #### [ ] 20-add-different-margins-to-each-side-of-an-element
+- #### [ ] 21-use-clockwise-notation-to-specify-the-padding-of-an-element
+- #### [ ] 22-use-clockwise-notation-to-specify-the-margin-of-an-element
+- #### [ ] 23-use-attribute-selectors-to-style-elements
+- #### [ ] 24-understand-absolute-versus-relative-units
+- #### [ ] 25-style-the-html-body-element
+- #### [ ] 26-inherit-styles-from-the-body-element
+- #### [ ] 27-prioritize-one-style-over-another
+- #### [ ] 28-override-styles-in-subsequent-css
+- #### [ ] 29-override-class-declarations-by-styling-id-attributes
+- #### [ ] 30-override-class-declarations-with-inline-styles
+- #### [ ] 31-override-all-other-styles-by-using-important
+- #### [ ] 32-use-hex-code-for-specific-colors
+- #### [ ] 33-use-hex-code-to-mix-colors
+- #### [ ] 34-use-abbreviated-hex-code
+- #### [ ] 35-use-rgb-values-to-color-elements
+- #### [ ] 36-use-rgb-to-mix-colors
