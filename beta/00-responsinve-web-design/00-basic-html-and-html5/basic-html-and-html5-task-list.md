@@ -21,8 +21,8 @@
 - #### [ ] 16-create-an-ordered-list
 - #### [x] ~~17-create-a-text-field~~
 - #### [ ] 18-add-placeholder-text-to-a-text-field
-- #### [ ] 19-create-a-form-element
-- #### [ ] 20-add-a-submit-button-to-a-form
+- #### [x] ~~19-create-a-form-element~~
+- #### [x] ~~20-add-a-submit-button-to-a-form~~
 - #### [ ] 21-use-html5-to-require-a-field
 - #### [ ] 22-create-a-set-of-radio-buttons
 - #### [ ] 23-create-a-set-of-checkboxes
